@@ -30,8 +30,8 @@
             <mxPoint x="437" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tg4ZArQYt1r--JDtIrlq-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="287" width="120" height="60" as="geometry" />
+        <mxCell id="Tg4ZArQYt1r--JDtIrlq-43" value="greeting audio start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="21" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
